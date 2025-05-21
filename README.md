@@ -1,1 +1,1 @@
-# TicTacToe-Garrin
+# TicTacToe-GarrinG
